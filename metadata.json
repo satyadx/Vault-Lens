@@ -1,0 +1,6 @@
+{
+  "name": "Vault Lens",
+  "description": "A premium futuristic Web3 DeFi vault comparison and analysis dashboard inspired by the Concrete ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
